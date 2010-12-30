@@ -1,15 +1,17 @@
+set expandtab
 set tabstop=8
 set softtabstop=4
 set shiftwidth=4
 set nocompatible
-set showmatch
 set backspace=indent,eol,start
 set autoindent
+set shiftround
 
 set nu
 set history=250
 set ruler 
 set showcmd 
+set showmatch
 set hlsearch
 set incsearch
 syntax on
